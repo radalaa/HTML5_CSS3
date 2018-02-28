@@ -1,0 +1,61 @@
+@font-face { /* Définition d'une nouvelle police nommée CAC Champagne */
+    font-family: 'Rubik-Black';
+    src: url('../@font/Rubik-LightItalic.ttf');
+}
+
+body{
+
+	background-image: url(../image/bg3.jpg);
+	font-family: 'Rubik-Black', Arial, sans-serif;	
+		
+	
+}
+img{
+	border : 1px #b5c477 solid;
+	box-shadow: 6px 6px 6px #b5c477 ;
+	width: 100px;
+	border-radius: 10px;
+
+}
+.info{
+	border : 3px #b5c477 solid;
+	border-radius: 10px;
+}
+.contenu{
+	margin-top: 15px;
+	border : 3px #b5c477 solid;
+	border-radius: 10px;
+}
+figure{
+	
+	float: right;
+	text-align: right;
+	padding-right: 90px;
+}
+
+h4{
+	padding-bottom: 44px;
+	text-align: center;
+	font-size: 18px;
+	margin-top: inherit;
+}
+.section-principal{
+	width: 780px;
+	margin: auto;
+	font-size: 16px;
+}
+
+h3{
+	color: #7676e0;
+}
+section {
+padding-left: 20px;
+	color: #b5c477;
+}
+h1{
+	padding-top: 30px;
+	font-size: 30px;
+	margin:0;
+	text-align: center;
+}
+
